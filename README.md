@@ -5,6 +5,20 @@
 <br/>
 <br/>
 
+##Project Description
+
+-The React-based e-commerce Clothing website I built is a responsive, user-friendly, and visually appealing online store that allows users to browse and purchase clothing items. The website is built using React and leverages various tools and techniques to provide a seamless user experience.
+
+-I have used React Basics to create reusable components for different sections of the website, and React Router to enable easy navigation between pages. Redux has been used to manage the application state, while Redux Saga handles asynchronous actions such as API calls. Asynchronous Redux has also been used to manage complex actions with multiple API calls. React Hooks have been used to manage state and lifecycle methods within functional components.
+
+-Context API has been used to pass data through the component tree without having to pass props manually at every level. React Suspense and React Lazy have been used to improve the website's loading time by lazy loading components and pages.
+
+-The website is a PWA (Progressive Web App) to provide an app-like experience for users. It also uses Stripe API for payment processing, Firebase for storing and retrieving user data, and Styled-Components for styling the components in a more efficient way. GraphQL and Apollo have been used for more efficient data fetching.
+
+-React Performance has been used to optimize the website's speed and efficiency, and React Design Patterns have been followed to create reusable and scalable components. Testing has been done using Jest and Snapshot testing to ensure the website functions correctly. React Best Practices have been used to ensure the website's code is clean, maintainable, and efficient. State Normalization has been used to manage complex state structures in Redux.
+
+-Overall, the e-commerce Clothing website I built using React showcases my proficiency in building robust, efficient, and user-friendly web applications using React and various tools and techniques.
+
 
 # Getting Started with Create React App
 
