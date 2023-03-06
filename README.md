@@ -1,11 +1,11 @@
-<h3>You Can Checkout sample at -</h3> (https://youtu.be/1MDSDfJSC08)
+# You Can Checkout sample at - (https://youtu.be/1MDSDfJSC08)
 
-#If you like it then don't be shy to hit the 🌟 
+# If you like it then don't be shy to hit the 🌟 
 
 <br/>
 <br/>
 
-##Project Description
+## Project Description
 
 -The React-based e-commerce Clothing website I built is a responsive, user-friendly, and visually appealing online store that allows users to browse and purchase clothing items. The website is built using React and leverages various tools and techniques to provide a seamless user experience.
 
