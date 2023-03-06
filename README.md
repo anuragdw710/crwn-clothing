@@ -1,5 +1,10 @@
 <h3>You Can Checkout sample at -</h3> (https://youtu.be/1MDSDfJSC08)
 
+#If you like it then don't be shy to hit the 🌟 
+
+<br/>
+<br/>
+
 
 # Getting Started with Create React App
 
