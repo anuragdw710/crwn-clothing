@@ -1,4 +1,4 @@
-<h3>You Can Checkout sample at -</h3> [Video](https://youtu.be/1MDSDfJSC08)
+<h3>You Can Checkout sample at -</h3> (https://youtu.be/1MDSDfJSC08)
 
 
 # Getting Started with Create React App
